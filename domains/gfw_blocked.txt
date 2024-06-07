@@ -3,6 +3,11 @@
 # Top-Level Domains
 :.*\.(hk|tw|jp|ca|de|fr|uk|sg|us|kr|au|fm|tk|ru|co|ai)$:
 
+# own
+lobehub.com
+exp-tas.com
+e-sedge.net
+
 # dropbox
 # https://help.dropbox.com/zh-cn/security/official-domains
 dropbox.com
