@@ -1,7 +1,7 @@
 # Overseas websites which were blocked by GFW
 
 # Top-Level Domains
-:.*\.(hk|tw|jp|ca|de|fr|uk|sg|us|kr|au|fm|tk|ru|co)$:
+:.*\.(hk|tw|jp|ca|de|fr|uk|sg|us|kr|au|fm|tk|ru|co|ai)$:
 
 # dropbox
 # https://help.dropbox.com/zh-cn/security/official-domains
