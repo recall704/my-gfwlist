@@ -1,7 +1,7 @@
 # Overseas websites which were blocked by GFW
 
 # Top-Level Domains
-:.*\.(hk|tw|jp|ca|de|fr|uk|sg|us|kr|au|fm|tk|ru|co|ai)$:
+:.*\.(hk|tw|jp|ca|de|fr|uk|sg|us|kr|au|fm|tk|ru|co|ai|shop)$:
 
 # own
 lobehub.com
