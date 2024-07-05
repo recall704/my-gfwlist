@@ -9,6 +9,7 @@ exp-tas.com
 e-sedge.net
 ollama.com
 npmmirror.com
+:.*pikpak\..*:
 
 # dropbox
 # https://help.dropbox.com/zh-cn/security/official-domains
